@@ -2,17 +2,10 @@
 
 This example deploys self-hosted version of [Ackee](https://ackee.electerious.com/). Internally it uses a MongoDB database to store the collected data.
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Frailwayapp-starters%2FAckee&plugins=mongodb&envs=ACKEE_USERNAME%2CACKEE_PASSWORD)
-
 ## ✨ Features
 
 - Ackee
 - MongoDB
-
-## 💁‍♀️ How to use
-
-- Click the Railway button 👆
-- Add the required environment variables
 
 ## 📝 Notes
 
